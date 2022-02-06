@@ -20,6 +20,8 @@
 <img src="https://discord.c99.nl/widget/theme-3/173557815326015488.png" alt="Discord"/>
 </a>
 
+Hey, I'm GravityScriptsV2, a YouTuber, Discord Bot Developer, Website Developer and Gamer!
+
 **Projects**
 
 - [Sinner Moon RP](https://sinnermoonrp.xyz)
