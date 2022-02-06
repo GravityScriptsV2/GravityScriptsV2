@@ -3,6 +3,12 @@
 <img src="https://discord.c99.nl/widget/theme-3/173557815326015488.png" alt="Discord"/>
 </a>
 
+**Projects**
+
+- [Sinner Moon RP](https://sinnermoonrp.xyz)
+- [Atomix](https://atomix.gg)
+
+
 **Stats:**  
 
 
