@@ -13,3 +13,9 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=GravityScriptsV2&theme=tokyonight&hide_border=true)" />
   <img src="https://github-profile-trophy.vercel.app/?username=GravityScriptsV2&theme=dracula" />
 </details>
+
+<p align="center">
+  <a href="https://discord.com/users/173557815326015488">
+    <img src="https://lanyard-profile-readme.vercel.app/api/173557815326015488?bg=0a0f16" alt="Discord Profile"/>
+  </a>
+</p>
