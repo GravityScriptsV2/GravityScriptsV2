@@ -35,7 +35,9 @@
       <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" />
    </p>
 </details>
+
 ---
+
 <p align="center">
    <a href="https://discord.com/users/173557815326015488" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
