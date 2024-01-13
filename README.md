@@ -45,3 +45,7 @@
    <img src="https://lanyard-profile-readme.vercel.app/api/173557815326015488?bg=0a0f16" alt="Discord Profile"/>
    </a>
 </p>
+<p align="center">
+      <a href="https://wakatime.com/@GravityExploitz">
+      </a>   
+</p>
