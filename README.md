@@ -2,6 +2,7 @@
 <p align="center">
    <a href="https://github.com/GravityScriptsV2">
    <img src="https://komarev.com/ghpvc/?username=GravityScriptsV2&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+   <a href="https://wakatime.com/@018d03bf-34bc-4aa3-894b-188ac9146c14"><img src="https://wakatime.com/badge/user/018d03bf-34bc-4aa3-894b-188ac9146c14.svg" alt="Total time coded since Jan 13 2024" /></a>
    </a>
 </p>
 <details>
@@ -39,7 +40,6 @@
 
 <p align="center">
    <a href="https://discord.com/users/173557815326015488" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://cdn.simpleicons.org/discord"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-   <a href="https://wakatime.com/@018d03bf-34bc-4aa3-894b-188ac9146c14"><img src="https://wakatime.com/badge/user/018d03bf-34bc-4aa3-894b-188ac9146c14.svg" alt="Total time coded since Jan 13 2024" /></a>
 </p>
 <p align="center">
    <a href="https://discord.com/users/173557815326015488">
