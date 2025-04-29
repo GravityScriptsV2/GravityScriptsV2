@@ -36,7 +36,7 @@ As a full-stack developer since 2019, I specialize in building high-performance,
   <details >
     <summary><b>⚡ Runtimes</b></summary>
     <br>
-     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vercel&theme=dark" alt="Runtimes"/>
+     <img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark" alt="Runtimes"/>
   </details>
 
   <details >
