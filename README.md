@@ -64,23 +64,6 @@ As a full-stack developer since 2019, I specialize in building high-performance,
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GravityScriptsV2&layout=compact&theme=dark" alt="Languages"/>
 </div>
 
-## 🌟 What I Offer
-
-<details> 
-  <summary><b>🏢 For Companies & Teams</b></summary> 
-  [Placeholder for Companies & Teams section content]
-</details> 
-
-<details> 
-  <summary><b>👥 For Private Clients</b></summary> 
-  [Placeholder for Private Clients section content]
-</details> 
-
-<details> 
-  <summary><b>👨‍💻 For Developers</b></summary>
-  [Placeholder for Developers section content] 
-</details>
-
 ## 🌐 Let's Connect
 
 <p align="center">
