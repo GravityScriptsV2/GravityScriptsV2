@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan
+# 👋 Hi, I'm Gravity
 
 <p align="center">
    <strong>Father. Husband. Developer.</strong>  
