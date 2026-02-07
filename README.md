@@ -1,13 +1,6 @@
 # 👋 Hi, I'm Gravity
 
 <p align="center">
-   <strong>Father. Husband. Developer.</strong>  
-   <em>"Building a future worth facing any storm for."</em><br>
-   Since 03.27.22 ❤️ — She's my storm.  
-   For those I've lost — you're with me, always.
-</p>
-
-<p align="center">
    <img src="https://komarev.com/ghpvc/?username=GravityScriptsV2&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
    <a href="https://wakatime.com/@018d03bf-34bc-4aa3-894b-188ac9146c14">
       <img src="https://wakatime.com/badge/user/018d03bf-34bc-4aa3-894b-188ac9146c14.svg" alt="Total time coded since Jan 13 2024" />
