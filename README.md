@@ -55,10 +55,9 @@ As a full-stack developer since 2019, I specialize in building high-performance,
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GravityScriptsV2&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GravityScriptsV2&layout=compact&theme=dark" alt="Languages"/>
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
 </div>
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 ## 🌐 Let's Connect
 
