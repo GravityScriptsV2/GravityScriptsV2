@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GravityExploitz's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1043, Total PRs: 13, Total Issues: 10, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 1048, Total PRs: 13, Total Issues: 10, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.1262617239527;
+        stroke-dashoffset: 200.05592900100203;
       }
     }
   
